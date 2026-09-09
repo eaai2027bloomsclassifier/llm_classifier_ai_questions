@@ -59,7 +59,7 @@ Your input CSV must contain:
 |-|-|-|
 |`Skill`|Yes|The AI course topic/skill the question relates to|
 |`Question`|Yes|The question text to classify|
-|`Description`|No|A short skill description, used as extra context |
+|`Description`|No|A short skill description, used as extra context|
 
 
 
