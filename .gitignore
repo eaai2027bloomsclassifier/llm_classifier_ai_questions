@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+
+# Ignore CSVs at the repo root (likely local test/output files) but keep
+# the ones intentionally checked in under examples/ and data/
+/*.csv
+!examples/*.csv
+!data/*.csv

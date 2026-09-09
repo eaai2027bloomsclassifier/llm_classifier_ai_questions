@@ -1,0 +1,3 @@
+Uniquekey,Skill,Description,Question
+a,Planning,Constructs action sequences using logical representations to achieve one or more goals.,What is planning?
+b,Version Spaces,Represents the space of all hypotheses consistent with observed training examples. Used in incremental concept learning by maintaining most-specific and most-general boundaries.,What is a version space?
