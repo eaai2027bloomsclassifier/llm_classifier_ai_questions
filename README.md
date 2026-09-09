@@ -105,7 +105,7 @@ All released data has been anonymized in accordance with the IRB-approved protoc
 
 ## Relationship to the paper
 
-* **Prompt design** (verbatim, unchanged from what generated the paper's reported results) is in `prompts/bloom\_taxonomy\_prompt.txt` — kept as
+* **Prompt design** (verbatim, unchanged from what generated the paper's reported results) is in `prompts/bloom_taxonomy_prompt.txt` — kept as
 a separate plain-text file rather than embedded in code, so it can be read or modified independently.
 * **Skill-only vs. skill+description conditions** (RQ2) correspond directly to running this script with an input CSV that omits vs. includes the `Description` column. The underlying prompt and code path are identical, per the paper's Methodology section.
 
